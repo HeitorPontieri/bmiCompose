@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">bmiCompose</string>
+    <string name="title">BMI  CALCULATOR</string>
+    <string name="weight">Your weight in kg</string>
+    <string name="height">Your height in cm</string>
+    <string name="button_calculate">CALCULATE</string>
+    <string name="katchau">KATCHAU</string>
+    <string name="your_score">Your Score</string>
+    <string name="reset">Reset</string>
+    <string name="share">Share</string>
+
+</resources>
